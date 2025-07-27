@@ -1,0 +1,6 @@
+Semantic kernel has below core components
+
+
+
+1. AI Service Connectors : The Semantic Kernel AI service connectors provide an abstraction layer that exposes multiple AI service types from different providers via a common interface.
+2. Vector Store (Memory) Connectors : The Semantic Kernel Vector Store connectors provide an abstraction layer that exposes vector stores from different providers via a common interface. 
